@@ -38,7 +38,7 @@ plt.show()
 tstart = 0
 tstop = 25
 increment = 1
-y0 = 0
+y0 = 1
 t = np.arange(tstart,tstop+1,increment)
 
 #Function that return y_dot or dy/dt
